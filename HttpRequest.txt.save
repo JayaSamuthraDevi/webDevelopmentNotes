@@ -1,0 +1,16 @@
+https://www.freecodecamp.org/news/http-request-methods-explained/
+
+What is HTTP?
+
+HTTP is a protocol, or a definite set of rules, for accessing resources on the web. Resources could mean anything from HTML files to data from a database, photos, text, and so on.
+
+These resources are made available to us via an API and we make requests to these APIs via the HTTP protocol. 
+
+The Anatomy of an HTTP Request
+
+An HTTP request must have the following:
+
+    An HTTP method (like GET)
+    A host URL (like https://api.spotify.com/)
+    An endpoint path(like  v1/artists/{id}/related-artists)
+

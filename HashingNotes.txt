@@ -1,0 +1,19 @@
+Hashing:
+
+Hashing means using some function or algorithm to map object data to some representative integer value.
+
+hash code narrow down our search in finding item in map.
+hash code generates an index at which value is stored.
+
+In hash tables, you store data in forms of key and value pairs.
+(value is given as an input to hash function,it generates a hash code (integer) where the value is mapped.)
+
+Collision Handling
+
+   * Separate Chaining--by creating linked list 
+   * Open Addressing	
+	-Linear Probing--storing in value in next hashcode number
+    	-Quadratic Probing--storing in value in after 2 hashcode number
+   	- Double Hashing--using two hash function
+
+

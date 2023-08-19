@@ -1,0 +1,19 @@
+nodejs:
+download--
+https://snapcraft.io/node
+
+nvm:download--
+https://github.com/nvm-sh/nvm
+
+to create project(it creats basic structured project)
+set up everything you need to run a React application.
+=>node create-react-app project-name
+
+to execute the React application :
+=>npm start
+
+
+What is React?
+
+React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
+React is a tool for building UI components.

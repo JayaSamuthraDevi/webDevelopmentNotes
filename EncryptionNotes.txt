@@ -1,0 +1,36 @@
+Encryption:
+
+Encryption is the process of protecting information or data by using mathematical models to scramble it in such a way that only the parties who have the key to unscramble it can access it. 
+
+How encryption works?
+plaintext is converted into ciphertext by cryptographic mathematical models known as algorithms.
+to decode it ,use decryption key
+
+Types of encryption:
+*Symmetric encryption--known as shared key or private key algorithm, uses the same key for encryption and decryption.
+*Asymmetric encryption--known as public-key cryptography, uses two separate keys to encrypt and decrypt data
+
+Common encryption algorithms::
+* Data Encryption Standard (DES)
+* Triple DES (3DES) 
+* Advanced Encryption Standard (AES) 
+* Twofish
+The most common methods of asymmetric encryption include:
+* RSA(Rivest-Shamir-Adelman)
+* Elliptic Curve Cryptography (ECC) 
+
+Encryption performs four important functions:
+
+    *Confidentiality: keeps the contents of the data secret
+    *Integrity: verifies the origin of the message or data
+    *Authentication: validates that the content of the message or data has not been altered since it was sent
+    *Nonrepudiation: prevents the sender of the data or message from denying they were the origin
+    
+Advantages of encryption:
+*Protects data across devices
+*Ensures data integrity
+*Protects digital transformations
+
+Disadvantages of encryption:
+*Ransomware
+*Key management 
