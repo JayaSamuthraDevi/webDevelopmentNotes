@@ -17,3 +17,21 @@ What is React?
 
 React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
 React is a tool for building UI components.
+React app
+
+
+1.create project:
+
+npx create-react-app app_name
+
+2.create routing:
+npm install react-router-dom
+
+3.install bootstrap:
+npm install bootstrap
+
+4.install json-server
+npm install -g json-server 
+
+
+
