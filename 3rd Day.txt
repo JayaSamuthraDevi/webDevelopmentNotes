@@ -1,0 +1,46 @@
+css and js
+
+gradient
+shadows
+transform
+transition
+Animation
+tooltips
+object-fit
+media-Queries
+flexbox
+grid
+
+
+
+javascript
+
+syntax
+comment
+variables
+function
+objects
+events
+string
+arrays
+date
+loop
+map
+
+js html dom
+browser dom
+web api
+ajax 
+json
+jquery
+
+
+
+
+
+
+
+
+
+
+for png img -->freepik.com
