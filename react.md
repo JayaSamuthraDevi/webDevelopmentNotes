@@ -51,34 +51,26 @@ Use n to install Node.js version 21.1.0:
 ```n 21.1.0```
 This command will download and install Node.js version 21.1.0. After the installation is complete, you can check the installed Node.js version by running:
 
-```
-node -v```
+```node -v```
 If you prefer to use nvm (Node Version Manager) to install Node.js version 21.1.0, follow these steps:
 
 Install nvm if you haven't already. You can use the following command:
 
-```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash```
+```curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash```
 or with wget:
-
-```
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash```
+```wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash```
 This command installs nvm. Close and reopen your terminal or run the source command to apply the changes.
 
 Install Node.js version 21.1.0 using nvm:
 
-```
-nvm install 21.1.0```
+```nvm install 21.1.0```
 Set Node.js version 21.1.0 as the default version (optional):
 
-```
-nvm use 21.1.0```
+```nvm use 21.1.0```
 Now you should have Node.js version 21.1.0 installed and active. You can check the installed Node.js version with:
 
-```
-node -v```
+```node -v```
 And you can check nvm version with:
 
-```
-nvm --version```
+```nvm --version```
 Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if necessary.
