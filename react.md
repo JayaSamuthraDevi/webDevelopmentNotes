@@ -19,6 +19,9 @@ Download Node.js from here.
 NVM (Node Version Manager)
 Download NVM from here.
 
+![image](https://github.com/JayaSamuthraDevi/webDevelopmentNotes/assets/115087700/39737267-c71a-4abd-9b89-48592d70ec87)
+
+
 ### To create a project (it creates a basic structured project), set up everything you need to run a React application:
 
 ```npx create-react-app project-name```
