@@ -6,7 +6,8 @@ install neccessary packages:
 ![image](https://github.com/JayaSamuthraDevi/webDevelopmentNotes/assets/115087700/8f9ce2a9-12c7-410c-abe0-f2b2988fe7c1)
 
 ## example of Slice
-```import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+```
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { fetch_get, fetch_getNotAuth } from "../utils";
 
 export const showList = createAsyncThunk(
