@@ -71,10 +71,10 @@ Now you should have Node.js version 21.1.0 installed and active. You can check t
 
 ```node -v```
 
-
-## create react app with tpyescript:
-```npx create-react-app --template typescript```
 And you can check nvm version with:
 
 ```nvm --version```
 Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if necessary.
+
+## create react app with tpyescript:
+```npx create-react-app --template typescript```
