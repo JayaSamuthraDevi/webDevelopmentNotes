@@ -70,6 +70,10 @@ Set Node.js version 21.1.0 as the default version (optional):
 Now you should have Node.js version 21.1.0 installed and active. You can check the installed Node.js version with:
 
 ```node -v```
+
+
+## create react app with tpyescript:
+```npx create-react-app --template typescript```
 And you can check nvm version with:
 
 ```nvm --version```
