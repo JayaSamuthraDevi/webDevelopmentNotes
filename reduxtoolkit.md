@@ -58,6 +58,7 @@ export default interestList.reducer;
 ```
 
 ## example for store
+```
 import { userDetail } from "../Reducers/userDetailsSlice";
 import { interestList } from "../Reducers/interestListsSlice";
 import { recommendationList } from "../Reducers/recommendationListsSlice";
@@ -80,3 +81,15 @@ const reducers = combineReducers({
 });
 
 export const store = createStore(reducers, composeEnhancers(middleware));
+```
+## example for dispatching an action
+```const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(showList());
+  }, []);
+```
+## example for fetching data from store
+``` const lists = useSelector((state) => {
+    return state.list_interest.lists;
+  });
+```
