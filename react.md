@@ -78,3 +78,15 @@ Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if 
 
 ## create react app with tpyescript:
 ```npx create-react-app --template typescript```
+
+
+## admin dashboard references
+- https://github.com/meabhisingh/react-admin-dashboard-ts/
+- https://github.com/adrianhajdin/project_syncfusion_dashboard
+- https://www.instagram.com/reel/CzrAA01MVQ6/?igsh=MTF0NG12dm1tamplYw==
+- https://www.instagram.com/reel/C1U573nyxlt/?igsh=bDM2d2UzaWR5MGNq
+- https://github.com/dev-shetty/CSS-Is-Fun
+- https://github.com/toidicode/template
+- https://github.com/bradtraversy/50projects50days?tab=readme-ov-file#readme
+
+ https://github.com/learning-zone/website-templates
