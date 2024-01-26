@@ -80,7 +80,7 @@ Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if 
 ```npx create-react-app --template typescript```
 
 
-## admin dashboard references
+## usefull links
 - https://github.com/meabhisingh/react-admin-dashboard-ts/
 - https://github.com/adrianhajdin/project_syncfusion_dashboard
 - https://www.instagram.com/reel/CzrAA01MVQ6/?igsh=MTF0NG12dm1tamplYw==
@@ -89,4 +89,5 @@ Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if 
 - https://github.com/toidicode/template
 - https://github.com/bradtraversy/50projects50days?tab=readme-ov-file#readme
 
- https://github.com/learning-zone/website-templates
+ - https://github.com/learning-zone/website-templates
+ - https://github.com/88kamal/Complete-Ecommerce-Project
