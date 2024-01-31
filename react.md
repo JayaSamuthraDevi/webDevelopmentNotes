@@ -81,6 +81,7 @@ Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if 
 
 
 ## usefull links
+-https://freefrontend.com/react-input-text/
 - https://github.com/meabhisingh/react-admin-dashboard-ts/
 - https://github.com/adrianhajdin/project_syncfusion_dashboard
 - https://www.instagram.com/reel/CzrAA01MVQ6/?igsh=MTF0NG12dm1tamplYw==
