@@ -91,3 +91,15 @@ Remember to restart your terminal or run nvm use 21.1.0 to apply the changes if 
 
  - https://github.com/learning-zone/website-templates
  - https://github.com/88kamal/Complete-Ecommerce-Project
+## useful concepts
+- axios intercepter --Axios interceptors are the default configurations that are added automatically to every request or response that a user receives. It is useful to check response status code for every response that is being received.
+
+
+
+## useful packages
+- react toastify --for toast meassages
+- axios --for api calls
+- react-chartjs-2 chart.js --for chats and graphs
+- sass --for stylesheet
+- react-icons --for icons
+- react-router-dom --for set routes
